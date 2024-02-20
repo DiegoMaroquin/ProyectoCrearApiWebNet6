@@ -1,0 +1,137 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\DELL\\source\\repos\\NetCorey\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FE77EB07-0481-4BDE-B031-A642DEA31F29}|NetCorey\\NetCorey.csproj|c:\\users\\dell\\source\\repos\\netcorey\\netcorey\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{FE77EB07-0481-4BDE-B031-A642DEA31F29}|NetCorey\\NetCorey.csproj|solutionrelative:netcorey\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE77EB07-0481-4BDE-B031-A642DEA31F29}|NetCorey\\NetCorey.csproj|c:\\users\\dell\\source\\repos\\netcorey\\netcorey\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE77EB07-0481-4BDE-B031-A642DEA31F29}|NetCorey\\NetCorey.csproj|solutionrelative:netcorey\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE77EB07-0481-4BDE-B031-A642DEA31F29}|NetCorey\\NetCorey.csproj|c:\\users\\dell\\source\\repos\\netcorey\\netcorey\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{FE77EB07-0481-4BDE-B031-A642DEA31F29}|NetCorey\\NetCorey.csproj|solutionrelative:netcorey\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE77EB07-0481-4BDE-B031-A642DEA31F29}|NetCorey\\NetCorey.csproj|c:\\users\\dell\\source\\repos\\netcorey\\netcorey\\modelos\\producto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE77EB07-0481-4BDE-B031-A642DEA31F29}|NetCorey\\NetCorey.csproj|solutionrelative:netcorey\\modelos\\producto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE77EB07-0481-4BDE-B031-A642DEA31F29}|NetCorey\\NetCorey.csproj|c:\\users\\dell\\source\\repos\\netcorey\\netcorey\\controllers\\productocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE77EB07-0481-4BDE-B031-A642DEA31F29}|NetCorey\\NetCorey.csproj|solutionrelative:netcorey\\controllers\\productocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE77EB07-0481-4BDE-B031-A642DEA31F29}|NetCorey\\NetCorey.csproj|c:\\users\\dell\\source\\repos\\netcorey\\netcorey\\netcorey.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{FE77EB07-0481-4BDE-B031-A642DEA31F29}|NetCorey\\NetCorey.csproj|solutionrelative:netcorey\\netcorey.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE77EB07-0481-4BDE-B031-A642DEA31F29}|NetCorey\\NetCorey.csproj|c:\\users\\dell\\source\\repos\\netcorey\\netcorey\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE77EB07-0481-4BDE-B031-A642DEA31F29}|NetCorey\\NetCorey.csproj|solutionrelative:netcorey\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 108,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "NetCorey.csproj",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\NetCorey\\NetCorey\\NetCorey.csproj",
+              "RelativeDocumentMoniker": "NetCorey\\NetCorey.csproj",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\NetCorey\\NetCorey\\NetCorey.csproj",
+              "RelativeToolTip": "NetCorey\\NetCorey.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-02-19T03:06:08.339Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Producto.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\NetCorey\\NetCorey\\Modelos\\Producto.cs",
+              "RelativeDocumentMoniker": "NetCorey\\Modelos\\Producto.cs",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\NetCorey\\NetCorey\\Modelos\\Producto.cs",
+              "RelativeToolTip": "NetCorey\\Modelos\\Producto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-19T03:05:55.247Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\NetCorey\\NetCorey\\appsettings.json",
+              "RelativeDocumentMoniker": "NetCorey\\appsettings.json",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\NetCorey\\NetCorey\\appsettings.json",
+              "RelativeToolTip": "NetCorey\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-02-19T03:05:55.678Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\NetCorey\\NetCorey\\Program.cs",
+              "RelativeDocumentMoniker": "NetCorey\\Program.cs",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\NetCorey\\NetCorey\\Program.cs",
+              "RelativeToolTip": "NetCorey\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-19T03:05:48.13Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ProductoController.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\NetCorey\\NetCorey\\Controllers\\ProductoController.cs",
+              "RelativeDocumentMoniker": "NetCorey\\Controllers\\ProductoController.cs",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\NetCorey\\NetCorey\\Controllers\\ProductoController.cs",
+              "RelativeToolTip": "NetCorey\\Controllers\\ProductoController.cs",
+              "ViewState": "AQIAAHwAAAAAAAAAAAAkwGcAAABgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-19T03:02:06.471Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\NetCorey\\NetCorey\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "NetCorey\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\NetCorey\\NetCorey\\Properties\\launchSettings.json",
+              "RelativeToolTip": "NetCorey\\Properties\\launchSettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB4AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-02-19T02:50:08.048Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\NetCorey\\NetCorey\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "NetCorey\\Controllers\\WeatherForecastController.cs",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\NetCorey\\NetCorey\\Controllers\\WeatherForecastController.cs",
+              "RelativeToolTip": "NetCorey\\Controllers\\WeatherForecastController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-19T02:34:32.449Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
